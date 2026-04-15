@@ -38,6 +38,12 @@ This system is designed to streamline attendance management processes, reduce ma
 
 ---
 
+## Screenshots
+
+
+
+---
+
 ## Business Impact
 
 * Reduced manual attendance errors
