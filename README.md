@@ -40,7 +40,7 @@ This system is designed to streamline attendance management processes, reduce ma
 
 ## Screenshots
 
-
+https://github.com/NikhilaChandini/QR-attendance-system/blob/cb0deb9b6375eb384efcc8cd8057888da68c7858/QR%20Attendance%20Snapshots.pdf
 
 ---
 
